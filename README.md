@@ -16,9 +16,9 @@
 | Domain            | Technologies & Tools                           |
 |-------------------|------------------------------------------------|
 | Programming       | Python, PHP, JavaScript, Bash                  |
-| Web Development   | HTML5, CSS3, MySQL, Node.js, React             |
-| Security & Crypto | OpenSSL, Wireshark, Metasploit, AES, RSA, ECC  |
-| DevOps / Others   | Docker, Git, Linux (Debian/Ubuntu), CI/CD      |
+| Web Development   | HTML5, CSS3, MySQL                             |
+| Security & Crypto | OpenSSL, AES, RSA, ECC                         |
+| DevOps / Others   | Git, Linux (Debian/Ubuntu), CI/CD              |
 
 <!--
 ---
