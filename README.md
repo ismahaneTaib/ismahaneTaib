@@ -1,59 +1,46 @@
-
 <!-- PROFILE BANNER -->
-<h1 align="center">Hey there, I’m <b>Ismahane</b> 👋</h1>
+<h1 align="center">Bonjour, je suis <b>Ismahane</b> 👋</h1>
+<p align="center">Je combine expertise en cybersécurité et passion pour la cryptographie, toujours à l’affût de nouveaux défis pour sécuriser des applications modernes.</p>
 
-
-## 🌍 About Me
-- 🎓 **Graduate** in Cryptography & Cybersecurity from **Algeria**  
-- 👩‍💻 Passionate about building secure, scalable applications  
-- 🐍 Python & 🔧 PHP/MySQL/HTML/CSS/JS are my go-to tools  
-- 🚀 Always exploring new security challenges and web technologies  
+## 🌍 À propos de moi
+- 🎓 **Diplômée** en Cryptographie & Cybersécurité de l’**Université de Boumerdès**  
+- 🗣️ **Langues** : Arabe, Français & Anglais  
+- 👩‍💻 Passionnée par la création d’applications sécurisées et évolutives  
+- 🐍 Python & 🔧 PHP/MySQL/HTML/CSS/JS sont mes outils de prédilection  
+- 🚀 Toujours en veille sur les nouvelles tendances en sécurité et technologies web  
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Compétences & Outils
 
-| Domain            | Technologies & Tools                           |
-|-------------------|------------------------------------------------|
-| Programming       | Python, PHP, JavaScript, Bash                  |
-| Web Development   | HTML5, CSS3, MySQL                             |
-| Security & Crypto | OpenSSL, AES, RSA, ECC                         |
-| DevOps / Others   | Git, Linux (Debian/Ubuntu), CI/CD              |
+| Domaine             | Technologies & Outils                           |
+|---------------------|-------------------------------------------------|
+| Programmation       | Python, PHP, JavaScript, Bash                   |
+| Développement Web   | HTML5, CSS3, MySQL                              |
+| Sécurité & Crypto   | OpenSSL, AES, RSA, ECC                          |
+| DevOps / Divers     | Git, Linux (Debian/Ubuntu), CI/CD               |
 
 <!--
 ---
 
-## 💼 Selected Projects
+## 💼 Projets Sélectionnés
 
 - **SecureChat** 🔒  
-  A real-time encrypted messaging app built with Python & WebSockets.  
+  Application de messagerie chiffrée en temps réel avec Python & WebSockets.  
 - **CyberAudit** 🕵️‍♀️  
-  Automated vulnerability scanner for web applications (PHP/MySQL).  
+  Scanner automatisé de vulnérabilités pour applications web (PHP/MySQL).  
 - **CryptoLab** 🧪  
-  Hands‑on cryptography tutorials & demos (AES, RSA, ECC) in Python.  
+  Tutoriels interactifs de cryptographie (AES, RSA, ECC) en Python.  
 - **Portfolio Website** 🌐  
-  Responsive personal site showcasing projects, built with HTML/CSS/JS.
+  Site personnel responsive, construit avec HTML/CSS/JS.
 
-👉 [View all projects](https://github.com/YOUR_USERNAME?tab=repositories)
+👉 [Voir tous mes projets](https://github.com/YOUR_USERNAME?tab=repositories)
 -->
 
-<!--
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
-
----
--->
-
-## 🚀 Let’s Connect
+## 🚀 Restons en contact
 
 <p align="center">
   <a href="mailto:taibismahan8@gmail.com"><img src="https://img.shields.io/badge/Email-taibismahan8@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/TaibIsmahane"><img src="https://img.shields.io/badge/LinkedIn-yourprofile-blue?style=flat-square&logo=linkedin"/></a>
+  <a href="https://linkedin.com/in/TaibIsmahane"><img src="https://img.shields.io/badge/LinkedIn-votreprofil-0A66C2?style=flat-square&logo=linkedin"/></a>
   <!-- <a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-@YOUR_USERNAME-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a> -->
 </p>
